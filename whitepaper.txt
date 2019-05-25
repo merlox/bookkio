@@ -1,0 +1,54 @@
+A publishing company that breaks the traditional model where writers only get a 16% of the money paid. 
+
+The problem
+Turns out that many writers are not benefitting from their effords as much as they should. The current conditions involve a 16% royalty with an unknown number of sales, just a promise. 
+
+A promise is not enough specially when you have such uncertainty of how much time you'll have to invest vs the results that you'll get. Plus the research behind coming from the companies is confusing, they provide you with some analysis of what could sell in the market.
+
+Let's be real, noone knows how much time you'll need to invest for writing the entire book nor how many sales it'll get. But if someone promises you a certain number of sales, they better back that statement up with some documents that show the analytics required to confirm that information.
+
+Additional, real-time information for how the money is used must be displayed to the author since he's the main actor in this movie. When accountability is weak, corruption surfaces creating a situation where the natural path is to be dishonest and manipulative. The only way to avoid it is with absolute, real-time information about how the funds are used and how the royalties are being distributed.
+
+
+The alternatives that exist right now
+Right now the top centralized publishers offer writers with up to a 16% royalty of all the sales and a fixed initial payment that varies depending on the company.
+
+Publishers take care of distributing the book for getting the largest number of sales possible by investing their advertising funds for a profit. They are risking their money so they deserve a reward for it. However, most of them setup abussive royalties where the author, the one who did all the work gets a merely 10% or similar, which is unreasonable to say the least.
+
+Alternatives to publishing on the blockchain already exists but they focus on creating a new system that people are not accustomed to, which ends up in books that never get published because of a lack of funding.
+
+We are not here to reinvent the wheel, we are focusing on using these modern technologies, combined with transparency and ethics to help writers and publishers get the best deals possible while staying on top of statistic about how the books are doing in terms of sales.
+
+The old model consisting on a writer that creates the content and a publisher that distributes the content for a profit will continue existing since it only makes sense that they combine effords. However we'll provide a platform for those publishers and writers that want a more transparent, clear communication so that they both communicate better, increasing the overal satisfaction of all the players involved for better long-term relationships.
+
+We'll also provide tools to simplify the process of tracking information and working on creating books. An open writing online software with plagiarism detection will be created for maximizing user effords without relying on outdated, confusing or slow technologies. This open platform will be a continuous development and we won't charge anything for it with the goal of creating the best publishing software for writers and publishers alike to compete with all the other expensive solutions.
+
+
+The solution with blockchain or AI
+We are proposing an open publishing marketplace where publishers and writers meet.
+
+First off, a 50% royalty to the writer which means that the other 50% will be used by the publisher to promote the book while providing real-time data of the marketing effords about how the book is being sold.
+
+Instead of developing a completely revolutionary alternative to publishing, we'll improve what's existing with tools never before seen focused on transparency, clear information and a variety of options.
+
+Publishers will have access to a tracker javascript code that they will use to gather information used to display real-time statistic accessible to writers.
+
+Transparency is an absolute must in our decentralized platform where we'll provide all users with detailed information about how the raised funds are being used, where they are going to and the state of the objectives being developed.
+
+Real-time decentralization is one of our core mottos. Since we will combine the best of the transparency and immutability of the blockchain with the power of real-time decentralized applications using state channels with plasma. 
+
+This platform for publishers and writers to connect will provide a simple system where payments in cryptocurrency are encouraged and protected via an escrow system so that you can receive your funds on time while also being protected from malicious users. Particularly the things that we are looking to solve are:
+- Payments on time.
+- Guaranteed payments pre-funded by the publisher.
+- A smart contract that fullfils the estimated revenue so that in case the sales estimates are wrong, the writer still gets his part of the deal. This will guarantee that the publishers are actually serious with the numbers that they use to persuade writers for working with them.
+- A solid review system where users can evaluate publihsers and writers for the best information possible.
+
+We'll use machine learning to help publishers price their books fairly by learning from past successful book launches, to spell check erros while writing and to help writers develop better content by providing alternative expressions and fixing common mistakes while using our open writing software. We expect an increasing number of users creating books using our publishing software which means more data to our machine learning models that will be used to improve the predictions exponentially while preserving privacy.
+
+The cost of developing a revolutionary writing software with such advanced features for free is justified by using the data written by the users to improve the system while also using the funds raised on the ICO to maintain a team of developers working consistently on improving the software.
+
+The token will be named Publish, symbol PUB with 18 decimals and a total supply of 1 million tokens. No additional tokens will be mined. The token will be used as an utility tool to make book purchases on the platform, reward users for specific behaviours and as an exchange token for content.
+
+The platform marketplace will have a section of pre-sale content and requests for creation. Meaning that readers will be able to create and vote with tokens for new pieces of content that they want to see completed. The token will also be used for voting purposes as a decentralized governance mechanism to make decisions for how the company behind the project moves forward.
+
+Our goal is to bring all publishers and writers to one massive platform where they can create, interact and communicate better than anywhere else while getting the best deals thanks to the competition and oppotunities displayed.
